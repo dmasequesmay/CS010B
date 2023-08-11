@@ -25,7 +25,3 @@ bool IntList::bubbleUp(IntNode *curr) {
       return flag;
    }
 }
-
-
-//programming 4,5,6 (functions and drawing linked lists and memory- stack and heap)
-//lab 2 (file input and output)
